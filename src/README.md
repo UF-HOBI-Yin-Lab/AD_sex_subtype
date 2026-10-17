@@ -1,11 +1,11 @@
-# AD-sex Minimal Framework
+# AD-sex Framework
 
 This directory is a cleaned, path-portable version of the AD-sex framework for GitHub release.
 
 ## Directory layout
 
 ```text
-AD-sex-minimal/
+AD-sex/
   analysis/                 # stepwise preprocessing / analysis scripts
   misc/                     # shared feature-encoding helpers
   models/                   # PyTorch model definitions
@@ -49,7 +49,7 @@ Then the framework can run from training onward.
 
 ## Pipeline order
 
-Run from the `AD-sex-minimal/` directory.
+Run from the `AD-sex/` directory.
 
 ### Full pipeline
 
